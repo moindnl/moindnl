@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a07df8,06b6d4&height=140&section=header&text=moindnl&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a07df8&center=true&vCenter=true&width=500&lines=Not+a+developer.;Just+a+guy+who+ships+things.;Crafting+stuff+fo'+shnicks." alt="Typing SVG" />
@@ -9,7 +7,7 @@ Bremen, Germany. Fuelled by espresso and questionable ideas.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a07df8,06b6d4&height=2" width="100%" />
+---
 
 ## The Setup
 
@@ -18,7 +16,7 @@ amount of confidence for someone who discovered `git` last year.
 
 <img src="https://skillicons.dev/icons?i=svelte,ts,python,git&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a07df8,06b6d4&height=2" width="100%" />
+---
 
 ## Projects
 
@@ -38,7 +36,20 @@ All named after Greek mythology. All surprisingly functional.
 
 > **souplesse Ultra** — Wind-optimized cycling route planner. Because headwinds are personal. → [souplesse-ultra.vercel.app](https://souplesse-ultra.vercel.app)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a07df8,06b6d4&height=2" width="100%" />
+---
+
+## The Vibe Lab
+
+Experiments, side quests & half-finished ideas.  
+Some ship. Most don't. All taught something.
+
+```
+// TODO: finish this
+```
+
+→ [moindaniel.de/#lab](https://moindaniel.de/#lab)
+
+---
 
 ## Methodology
 
@@ -52,7 +63,7 @@ All named after Greek mythology. All surprisingly functional.
 This is called Vibecoding. It is a legitimate software development methodology.  
 I will not be taking questions.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a07df8,06b6d4&height=2" width="100%" />
+---
 
 ## Stats
 
@@ -64,7 +75,7 @@ I will not be taking questions.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a07df8,06b6d4&height=2" width="100%" />
+---
 
 ## Off the Clock
 
@@ -73,7 +84,7 @@ I will not be taking questions.
 <img src="https://img.shields.io/badge/Nintendo_Switch-E4000F?style=flat-square&logo=nintendo-switch&logoColor=white" />
 <img src="https://img.shields.io/badge/Coffee-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a07df8,06b6d4&height=100&section=footer" width="100%" />
+---
 
 <div align="center">
 <sub>

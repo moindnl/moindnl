@@ -26,18 +26,13 @@ All named after Greek mythology. All surprisingly functional.
 
 <div align="center">
 
-<a href="https://github.com/moindnl/stryx-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moindnl&repo=stryx-engine&theme=github_dark&hide_border=true&title_color=a07df8&icon_color=06b6d4&bg_color=0a0a0f" />
-</a>
-<a href="https://github.com/moindnl/melinoe-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moindnl&repo=melinoe-engine&theme=github_dark&hide_border=true&title_color=a07df8&icon_color=06b6d4&bg_color=0a0a0f" />
-</a>
-<a href="https://github.com/moindnl/hecates-cauldron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moindnl&repo=hecates-cauldron&theme=github_dark&hide_border=true&title_color=a07df8&icon_color=06b6d4&bg_color=0a0a0f" />
-</a>
-<a href="https://github.com/moindnl/cerberus-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moindnl&repo=cerberus-core&theme=github_dark&hide_border=true&title_color=a07df8&icon_color=06b6d4&bg_color=0a0a0f" />
-</a>
+<table><tr>
+<td><a href="https://github.com/moindnl/stryx-engine"><img src="https://socialify.git.ci/moindnl/stryx-engine/image?theme=Dark&language=1&font=Source+Code+Pro&description=1" width="400" /></a></td>
+<td><a href="https://github.com/moindnl/melinoe-engine"><img src="https://socialify.git.ci/moindnl/melinoe-engine/image?theme=Dark&language=1&font=Source+Code+Pro&description=1" width="400" /></a></td>
+</tr><tr>
+<td><a href="https://github.com/moindnl/hecates-cauldron"><img src="https://socialify.git.ci/moindnl/hecates-cauldron/image?theme=Dark&language=1&font=Source+Code+Pro&description=1" width="400" /></a></td>
+<td><a href="https://github.com/moindnl/cerberus-core"><img src="https://socialify.git.ci/moindnl/cerberus-core/image?theme=Dark&language=1&font=Source+Code+Pro&description=1" width="400" /></a></td>
+</tr></table>
 
 </div>
 
@@ -63,10 +58,7 @@ I will not be taking questions.
 
 <div align="center">
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=moindnl&show_icons=true&theme=github_dark&hide_border=true&title_color=a07df8&icon_color=06b6d4&bg_color=0a0a0f&include_all_commits=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moindnl&layout=compact&theme=github_dark&hide_border=true&title_color=a07df8&bg_color=0a0a0f" /></td>
-</tr></table>
+<img src="https://github-profile-trophy.vercel.app/?username=moindnl&theme=darkhub&no-frame=true&column=4&margin-w=8" />
 
 <img src="https://streak-stats.demolab.com?user=moindnl&theme=github-dark-blue&hide_border=true&ring=a07df8&fire=06b6d4&currStreakLabel=a07df8" />
 

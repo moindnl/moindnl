@@ -43,9 +43,11 @@ All named after Greek mythology. All surprisingly functional.
 Experiments, side quests & half-finished ideas.  
 Some ship. Most don't. All taught something.
 
-```
-// TODO: finish this
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moindnl/moindnl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moindnl/moindnl/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/moindnl/moindnl/output/github-contribution-grid-snake.svg" />
+</picture>
 
 → [moindaniel.de/#lab](https://moindaniel.de/#lab)
 

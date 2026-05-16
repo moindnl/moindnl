@@ -88,7 +88,6 @@ I will not be taking questions.
 
 <div align="center">
 <sub>
-  <a href="https://moindaniel.de">moindaniel.de</a> ·
-  Holder of the GitHub YOLO achievement · Bremen
+  <a href="https://moindaniel.de">moindaniel.de</a>
 </sub>
 </div>
